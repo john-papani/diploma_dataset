@@ -5,8 +5,7 @@ This is the repository for the Dataset of [Greek Parliament Debates to Open Link
 ## Project Structure
 
 The repository is structured as follows:
-
-g- ### [`general_files/`](https://github.com/john-papani/diploma_dataset/tree/master/general_files)
+- ### [`general_files/`](https://github.com/john-papani/diploma_dataset/tree/master/general_files)
     > This directory holds general files and resources relevant to the project.
 - ### [`raw_text_data/`](https://github.com/john-papani/diploma_dataset/tree/master/raw_text_data)
     - #### [`all_files/`](https://github.com/john-papani/diploma_dataset/tree/master/raw_text_data/all_files)
