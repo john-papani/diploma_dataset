@@ -10,7 +10,7 @@ The repository is structured as follows:
 - ### [`raw_text_data/`](https://github.com/john-papani/diploma_dataset/tree/master/raw_text_data)
     - #### [`all_files/`](https://github.com/john-papani/diploma_dataset/tree/master/raw_text_data/all_files)
     >This directory contains the raw text data used in the project. You can find the original text files of the Greek Parliament debates in this folder. (format: docx, doc, txt)
-    - ### [`my_harvest_last.db`](https://github.com/john-papani/diploma_dataset/blob/master/raw_text_data/my_harvester_last.db)
+    - #### [`my_harvest_last.db`](https://github.com/john-papani/diploma_dataset/blob/master/raw_text_data/my_harvester_last.db)
     >This SQLite database file stores the processed and transformed data from the raw text files. The data is structured and organized within this database, making it easier to query and analyze.
 
 ---
